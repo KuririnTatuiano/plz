@@ -1,0 +1,13 @@
+body{
+  background-image: url('../_imgs/polozi-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main-content{
+display: grid;
+width: 40%;
+padding: 0;
+margin-left: 10%;
+margin-top: 10%;
+
+}
